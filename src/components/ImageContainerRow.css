@@ -1,0 +1,26 @@
+.image-container {
+
+    align-items: center;
+    justify-content: space-between; 
+    display: inline-block;
+    
+  
+    
+  }
+  
+  .image-container img {
+    margin-right: 10px; 
+  }
+  
+  .image-description {
+    font-size: 14px; 
+    color: #7D6AEE; 
+    text-align: center;
+    margin: 0;
+  }
+  .image-container-row {
+    display: flex; 
+    justify-content: space-between;
+    align-items: center;
+  
+  }

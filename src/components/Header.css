@@ -1,0 +1,52 @@
+.header-left {
+    display: flex;
+    align-items: center;
+  }
+  
+  .company-logo {
+    width: 50px;
+    height: 50px;
+    margin-right: 1rem;
+  }
+  
+  .company-name {
+    font-size: 1.5rem;
+    font-weight: bold;
+  }
+  
+  .header-right {
+    display: flex;
+    gap: 1rem;
+  }
+  
+  .header-link {
+    color: white;
+    text-decoration: none;
+  }
+  
+  .header-link:hover {
+    text-decoration: underline;
+  }
+  
+  
+  
+  
+  
+  /* Autres styles inchangés ... */
+  
+  
+  
+  
+  .header {
+    width: 100%; /* Ensure the header spans the full width */
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem 2rem;
+    margin-top: 0%;
+    color: white;
+    position: relative; /* Ensure it stays in the normal document flow */
+    z-index: 1; /* Make sure it stays on top of other elements */
+  }
+  
+  

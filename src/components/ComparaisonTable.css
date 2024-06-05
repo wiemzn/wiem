@@ -1,0 +1,26 @@
+.box {
+    font-family: sans-serif;
+    margin-top: 26px;
+    height: 110px;
+    width: 820px;
+   
+  }
+  
+  table {
+    width: 100%;
+    border-radius: 10px;
+    background-color:#021D42 ;
+    border: 2px dashed #ccc;
+  }
+  
+  th, td {
+    padding: 8px;
+    color: #ffffff;
+    
+  }
+  
+  th {
+    text-align: left;
+    color: #EFEFEF;
+    
+  }
